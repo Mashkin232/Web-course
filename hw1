@@ -1,0 +1,34 @@
+<!Doctype html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>course/readme.md</title>
+    </head>
+    <body>
+      <h1>Полезные ссылки</h1>
+      <hr>
+      <h2>Про курс</h2>
+      <li>
+        <ul><a href="https://am-cp-frontend.slack.com/join/shared_invite/">Наш Slack</a></ul>
+        <ul><a href="https://github.com/am-cp-frontend/course/tree/master/Slides">Слайды с лекций</a></ul>
+        <ul><a href="https://github.com/am-cp-frontend/course/tree/master/Assets">Шрифты, картинки и прочее, что может помочь для презентаций</a></ul>
+      </li>
+      <h2>Про технологии</h2>
+      <li>
+        <ul><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">HTML reference</a></ul>
+        <ul><a href="https://www.w3schools.com/cssref/">CSS reference</a></ul>
+        <ul><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">JS reference</a></ul>
+        <ul><a href="https://nodejs.org/dist/latest-v8.x/docs/api/">Node.js API docs</a></ul>
+        <ul><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown reference</a></ul>
+      </li>
+      <p><b>Reference</b> (англ.) — Справочник</p>
+      <h1>Что себе установить</h1>
+      <hr>
+      <li>
+        <ul><a href="https://git-scm.com/">Git</a> и <a href="https://www.gitkraken.com/">GUI для него</a></ul>
+        <ul><a href="https://code.visualstudio.com/">VS Code</a> или <a href="https://atom.io/">Atom</a></ul>
+        <ul><a href="https://nodejs.org/en/">Node.js версии 8.6.0 или выше</a></ul>
+        <ul>Chrome \ Yandex Browser \ Opera \<a href="https://www.google.ru/chrome/browser/canary.html"> Хром для тру разработчиков</a></ul>
+      </li>
+    </body>
+</html>
