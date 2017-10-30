@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+.block{
+  width: 80%;
+  padding: 3rem;
+  background-color: rgb(232, 232, 232);
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.note{
+  width:13rem;
+  min-height: 13rem;
+  padding: 1.5rem;
+  border-radius: 1px;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, .32);
+  vertical-align:text-top;
+  display:inline-block;
+  box-sizing: border-box;
+
+}
+.note1{
+    background-color:rgb(253, 255, 141);
+}
+.note2{
+    background-color:rgb(251, 208, 125);
+}
+.note3{
+    background-color:rgb(253, 137, 128);
+}
+.note4{
+    background-color:rgb(128, 216, 255);
+}
+h1{
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0rem;
+}
+p{
+  margin-top: .4rem;
+}
+/*.block{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  background-color: #4516c5;
+  color: white;
+  font-size: 2rem;
+  z-index: 1;
+  padding: 1.4rem;
+  position:fixed;
+  top:0px;
+  margin-bottom: 0rem;
+}
+.object{
+  display:flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 7rem auto;
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 2.7rem;
+  font-weight: bold;
+  margin-left: .7rem;
+  margin-bottom: 0rem;
+  box-sizing: border-box;
+}
+.text{
+  margin-top: 1rem;
+  margin-left: 3rem;
+}
+
+.data{
+  font-size: 1rem;
+  padding: .5rem;
+  border-radius: .3rem;
+  background-color:#ddd;
+  display: inline-block;
+  text-align:center;
+  line-height: 1.5rem;
+  box-sizing: border-box;
+}
+*/
