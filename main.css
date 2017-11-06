@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.block{
+    width: 80%;
+    padding: 3rem;
+    background-color: rgb(232, 232, 232);
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.notes{
+    width:13rem;
+    min-height: 13rem;
+    padding:0rem;
+    border-radius: 1px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, .32);
+    vertical-align:text-top;
+    display:inline-block;
+    position:relative;
+    height: 17rem;
+}
+.action{
+    position:absolute;
+    bottom:0.5rem;
+    right:0.5rem;
+    color:transparent;
+}
+a:hover{
+    color:black;
+}
+.yellow{
+    background-color:rgb(253, 255, 141);
+}
+.orange{
+    background-color:rgb(251, 208, 125);
+}
+.red{
+    background-color:rgb(253, 137, 128);
+}
+.blue{
+    background-color:rgb(128, 216, 255);
+}
+.image {
+    overflow: hidden;
+    width: 100%;
+    max-height: 45%;
+    padding:0rem;
+}
+.text{
+    padding: 1.5rem
+}
+h1{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0rem;
+}
+p{
+    margin-top: .4rem;
+}
+
+@media (max-width: 48em) {
+    .notes {
+        width: 100%;
+        min-height: 10rem;
+        margin-right: 0;
+    }
+    .notes:last-child {
+        margin-bottom: 0;
+    }
+}
